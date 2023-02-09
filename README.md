@@ -10,4 +10,3 @@
 <a href="https://github.com/hdinia/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hdinia&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="my stats" /></a> 
 </br>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hdinia&hide_border=true&ring=8E72DB&fire=0481D9F3&currStreakLabel=8E72DB)](https://git.io/streak-stats)
-<figure><embed src="https://wakatime.com/share/@f822fa1c-1d82-4979-a0d3-5d05fa30fe97/3809b645-6402-4816-9ed0-4a4635c1f401.svg"></embed></figure>
