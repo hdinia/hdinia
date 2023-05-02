@@ -8,6 +8,3 @@
   <img alt="CodeWars" src="https://www.codewars.com/users/hdinia/badges/micro" />
 </p>
 
-<a href="https://github.com/hdinia/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hdinia&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="my stats" /></a> 
-</br>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hdinia&hide_border=true&ring=8E72DB&fire=0481D9F3&currStreakLabel=8E72DB)](https://git.io/streak-stats)
